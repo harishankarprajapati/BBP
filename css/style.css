@@ -1,0 +1,407 @@
+.hero-bg {
+    background-image: url(../images/hero-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.headermenusec {
+    color: #090909;
+    font-family: 'Inter';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.headermenusec2btn {
+    background: #7D243A;
+    display: inline-flex;
+    padding: 20px 37.18px 20px 37.38px;
+    color: #FFF;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.headermenusec2btn:hover {
+    color: #7D243A;
+    background: #F7AE85;
+}
+
+.movesec {
+    border-radius: 16px;
+    opacity: 0.95;
+    background: #FFF;
+    padding: 20px;
+    margin: 130px 0px 200px 0px;
+}
+
+.movesec p {
+    color: #000;
+    font-family: 'Inter';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 200;
+}
+
+.movesec h3 {
+    color: #000;
+    font-family: 'Inter';
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.secbtnhero {
+    padding: 30px 0px;
+}
+
+.secbtnhero a {
+    background: #7D243A;
+    color: #FFF;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    padding: 20px 30px;
+    text-decoration: none;
+}
+
+.secbtnhero a:hover {
+    color: #7D243A;
+    background: #F7AE85;
+}
+
+.bbp-bgsec {
+    background: #333A45;
+    padding: 50px;
+}
+
+.bbp-bgsec p {
+    color: #FFF;
+    font-family: 'Inter';
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.bbp-bgsec span {
+    color: #F7AE85;
+}
+
+.secOurClasses {
+    background: #F7AE85;
+    padding: 50px 10px;
+}
+
+.secOurClassestext {
+    color: #222325;
+    font-family: 'Inter';
+    font-size: 29.648px;
+    font-style: normal;
+    font-weight: 400;
+    padding-bottom: 20px;
+}
+
+.nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+    border: 0 !important;
+    color: #FFF !important;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 15px;
+    border-radius: 50px;
+    background: #782435 !important;
+}
+
+.nav-tabs .nav-link:focus,
+.nav-tabs .nav-link:hover {
+    border-radius: 50px;
+    background: #782435 !important;
+    color: #FFF !important;
+    border: 0px !important;
+}
+
+.nav-link.tabsec {
+    color: #000 !important;
+    border-radius: 50px;
+    border: 0px !important;
+    font-family: 'Inter' !important;
+    font-size: 16px !important;
+    font-style: normal;
+    text-align: center !important;
+}
+
+ul#ex1 {
+    border: 0px !important;
+}
+.secbtnhero2 {
+    padding: 30px 0px;
+}
+
+.secbtnhero2 a {
+    background: #7D243A;
+    color: #FFF;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    padding: 20px 30px;
+    text-decoration: none;
+}
+
+.secbtnhero2 a:hover {
+    color: #7D243A;
+    background: #F7AE85;
+    border: 1px solid #7D243A ;
+}
+.tabimagestext{
+display: flex!important;
+align-content: center;
+justify-content: center;
+flex-direction: column;
+}
+.tabimagestext p{
+    color: #222325;
+font-family: 'Inter';
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+width: 80%;
+
+}
+.meetbg-sec{
+    background: #FFDCC8;
+    padding: 50px 20px;
+}
+.meettabtext{
+    color: #222325;
+font-family: 'Inter';
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+padding-top: 20px;
+text-align: left !important;
+}
+
+#meetss .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.meetac.active {
+    border: 0 !important;
+    color: #FFF !important;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 15px;
+    border-radius: 50px;
+    background: transparent !important;
+}
+#meetss .nav-tabs .nav-link:focus, .nav-tabs .nav-link.meetac:hover {
+    border-radius: 50px;
+    background: transparent !important;
+    color: #FFF !important;
+    border: 0px !important;
+}
+ul#meetss {
+    border: 0px;
+    margin-bottom: 0;
+}
+.tabimagestext h4{
+    color: #222325;
+font-family: 'Inter';
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+}
+.everhsec{
+    color: #222325;
+text-align: center;
+font-family: 'Inter';
+font-size: 35px;
+font-style: normal;
+font-weight: 400;
+}
+.everpsec{
+    color: #222325;
+text-align: center;
+font-family: 'Inter';
+font-size: 14.531px;
+font-style: normal;
+font-weight: 400;
+}
+.everpsec span{
+    color: #7D243A;
+text-decoration-line: underline;
+}
+.secebim{
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+.secebim img{
+    border-radius: 25px;
+    padding: 0px 10px;
+}
+.evb2{
+    margin-top: 60px;
+}
+.sidelogoimg{
+    width: 40%;
+}
+.secbbpad{
+    padding-left: 30px;
+}
+.bbhsec{
+    color: #222325;
+    font-family: 'Inter';
+    font-size: 26.055px;
+    font-style: normal;
+    font-weight: 200;
+    padding-top: 20px;
+}
+.bbpsec{
+    color: #222325;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+.secfree{
+    background: #FFE6D8;
+    padding: 50px 20px;
+    text-align: center;
+    margin-top: 120px;
+}
+.sec7days{
+    color: #222325;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 42.109px;
+    font-weight: 400;
+}
+.secwilltet{
+    color: #222325;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 18px;
+    font-weight: 200;
+}
+.offersec{
+    background: #F7AE85;
+    padding: 30px;
+}
+.secsavetext{
+    color: #FFF;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: uppercase;
+    background: #7D243A;
+    padding: 6px;
+    text-decoration: none;
+}
+.offertext{
+    color: #222325;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 30px;
+    font-weight: 400;
+    padding-top: 20px;
+}
+.secspcs{
+    color: #222325;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 23.336px;
+    font-weight: 200;
+}
+.sec-workout{
+    margin-top: -200px;
+}
+.sectestimonialsp{
+    color: #222325;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 200;
+    width: 50%;
+    margin: auto;
+    padding-top: 20px;
+}
+.sectestimonialsh{
+    color: #222325;
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 25px;
+    font-weight: 400;
+    padding-top: 20px;
+}
+.sec-footerbg{
+    background: #4A312B;
+    padding: 40px 10px;
+}
+.footercolum{
+    display: flex;
+    justify-content: space-evenly;
+}
+.allcolums1 h4{
+    color: #FFF;
+font-family: 'Inter';
+font-size: 23px;
+font-weight: 400;
+}
+.allcolums1 p{
+    color: #FFF;
+font-family: 'Inter';
+font-size: 18px;
+font-weight: 400;
+}
+.btn.btn-default{
+    background-color: #F7AE85;
+    width: 62px;
+height: 52px;
+border-radius: 0;
+}
+.subscribe_now input{
+    border-radius: 0;
+}
+.social-menu {
+    display: flex;
+    padding: 0;
+  }
+  .social-btn {
+    list-style: none;
+  }
+  li.social-btn a i {
+    color: #fff;
+    font-size: 30px;
+    padding-right: 30px;
+}
+.allcolums2 h4{
+    color: #FFF;
+    font-family: 'Inter';
+    font-size: 18px;
+    font-weight: 200;
+    padding-bottom: 30px;
+}
+.allcolums2 p a{
+    color: #FFF;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-weight: 400;
+    text-decoration: none;
+}
+.copy-bg{
+    background: #7D243A;
+    padding: 20px ;
+}
+.copytext{
+    color: #FFF;
+    text-align: center;
+font-family: 'Inter';
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+margin: 0;
+}
